@@ -1,0 +1,74 @@
+#chathead1{
+	float: left;
+	margin-left: -10;
+	padding-left: 0;
+	margin-top: -10;
+	background: #4169E1; 
+	width:290; 
+	padding: 5px 5px; 
+	color: white;
+}
+
+#chathead p{
+
+}
+
+#chathead1 a{
+	color: white; 
+	margin-right: 10;
+	margin-left: 30; 
+	text-decoration: none;
+	float: right;
+}
+
+#chatdata{
+	float: left;
+	height: 340px; 
+	width: 290px; 
+	background:; 
+	overflow-y:scroll;  
+	overflow-x: hidden; 
+	background: url("img/logo1.png") center no-repeat;
+	background-size: 420px 554px;
+ 
+}
+
+#mgr {
+	margin-left: -5px;
+	border-top: 1px solid #C5D6EE;
+	background:;
+	margin-top: 15px
+	height: 30;
+	float: left;
+	width: 290;
+	padding-top: 25px;
+
+}
+
+#mgr input{
+	border:1px solid #bdc7d8;
+	border-radius: 5px; 
+	width: 200px; 
+	height: 30px; 
+	font-size: 17px;
+}
+
+#mgr button{
+	height: 34px; width: 37px; background:url("img/send.png") center no-repeat; border:0 none;
+}
+
+#taskbar{
+	width: 250px; 
+	height: 30px; 
+	border:1px solid #bdc7d8;
+}
+
+#taskbar button{
+
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+a {
+	text-decoration: none;
+}

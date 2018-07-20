@@ -1,0 +1,45 @@
+#chathead1{
+	float: left;
+	margin-left: -10;
+	padding-left: 0;
+	margin-top: -10;
+	background: #4169E1; 
+	width:300px; 
+	height: 20px;
+	padding: 5px 5px; 
+	color: white;
+}
+#chatdata{
+	height: 370px;
+	width: 300px;
+	overflow-x:hidden; 
+	overflow-y: scroll;
+}
+
+#input{width: 250px; 
+	height: 50px;
+	margin-top: 5px;
+	border-radius: 5px;
+	border-color: blue;
+	}
+#insert{
+	background: url("../img/send.png") center no-repeat; border:0 none;
+	background-size: 20px 20x;
+	height:32px; 
+	width:35px;
+}
+#taskbar{
+	border-top: 1px solid black;
+	padding-top: 5px;
+}
+
+#delete{
+
+		border-radius: 5px;
+	border-color: blue;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}

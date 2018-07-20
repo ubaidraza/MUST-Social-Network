@@ -1,0 +1,186 @@
+#header{
+	height: 100px;
+
+background:-moz-linear-gradient(to left, #5e4c84, #655190);
+background:-webkit-linear-gradient(to left, #5e4c84, #655190);
+background:-webkit-gradient(linear, 0 0, 100% 0, from(#5e4c84), to(#655190));
+background:-o-linear-gradient(to left, #5e4c84, #655190);
+background:linear-gradient(to left, #5e4c84, #655190);
+}
+
+#siteheader{
+	background: #655190;
+}
+
+.btnComment:hover{
+	background:#655190;
+	color:white;	
+	}
+
+#sideNav li a:hover {
+	background:#655190;
+	color:white;
+	font-size:14px;
+	font-weight:700;
+	
+	}
+	
+.navMain{
+	background:#89b95a;	
+	}
+
+#left{
+	color: white;
+	font-size: 48px;
+	margin-top: 5px;
+}
+
+#right{
+	color: white;
+}
+
+#logout a{
+text-decoration: none;
+ color: white;
+}
+
+
+
+#people{
+	margin-top: -10px;
+}
+#statusbox{
+		height:600px;
+		overflow:hidden;
+		overflow-y:scroll;
+	
+	}
+	
+#status{
+	margin-top:10px;
+	width:;
+	height:50px;
+	border:1px solid #5E89FF;
+	border-radius:5px;
+}
+#statusButton{
+	margin-top:5px;	
+	border-radius:7px;
+	border:1px solid blue;
+	background:#F0DBDC;
+	}
+	
+#td3{ 
+	margin-top:3px;
+	border-top:1px solid #EBE0E0;
+	height:40px;	
+	}
+button {
+	padding-bottom:10px;
+	}
+#btn{
+	padding-bottom:px;
+	}
+	
+table{
+	padding-bottom:10px;
+	}
+
+#statustext{
+}
+
+#statustext3{
+	padding-left:10px;
+	padding-bottom:10px;
+}
+
+#likeShow{
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	display:none;
+	width:200px;
+	background:#DFDCDC;
+	}
+
+#likelist:hover #likeShow{ background:#655190; }
+
+#first{
+	height:700px;
+	background:white;
+	}
+	
+#middle{
+	height: 700px;
+}
+
+#centerDiv{
+	height:700px;
+	background:white;
+	}
+
+	
+	
+
+#row2{margin-top:10px;}
+
+#input {width:240px;
+	height:55px;
+	float:left;
+	resize: none;
+	}
+	
+#chatwin{
+	position:absolute;	
+	display:none;
+	z-index:9999;
+	}
+	
+	.statusTable td:hover {
+		font-size:16px;
+			
+		}
+		
+.statusTable td a:hover {
+
+			color:#655190;
+		}
+
+.btnlike{
+	margin-top:5px;
+	border-radius:5px;	
+	padding:3px 15px;;
+	background:white;
+	}
+	
+.btnUnlike{
+	margin-top:5px;
+	border-radius:5px;
+		padding:3px 15px;
+		background:#655190;
+
+	}
+	
+	#contacts{
+	
+	width: 320px; 
+	background:;
+	}
+
+.cmtInput{
+	width:570px;
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+	}
+	
+.btnEdit{
+	margin-right:5px;	
+	height:30px;
+	padding-top:4px;
+	}
+
+.cmtDel{
+	height:30px;
+	padding-top:4px;	
+	}

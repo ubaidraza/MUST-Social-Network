@@ -1,0 +1,56 @@
+body{
+	width: 320px;
+	background:;
+}
+
+#recv{
+	margin-left: 80;
+	width: 200px;
+	border: 1px solid red;
+	margin-top: 10;
+	border-radius: 10px 10px 0px 10px;
+}
+
+#sender{
+	width: 200px;
+	border: 1px solid green;
+	margin-top: 10;
+	border-radius: 10px 10px 10px 0px;
+
+}
+
+#chathead{
+	float: left;
+	width: 200;
+}
+
+#sname{
+	float: left;
+	margin-left: 6px;
+}
+
+#date{
+	margin-right: 6px;
+	float: right;
+}
+
+#msg{
+	margin-left: 6px;
+	width: 190;
+	background: blue;
+	float: left;
+}
+
+#msgbody{
+	width: 190;
+		background: blue;
+}
+
+#footer{
+	float: left;
+	width: 200px;
+}
+
+#text{
+	margin-left: 160;
+}

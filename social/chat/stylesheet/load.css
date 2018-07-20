@@ -1,0 +1,108 @@
+#mainbody{
+	width: 320px;
+	background:;
+
+}
+
+
+
+#recv{
+	margin-left:50px;
+	width: 250px;
+	border: 1px solid #00FFFF;
+	background: #00FFFF;
+	margin-top: 10px;
+	border-radius: 10px 10px 0px 10px;
+
+}
+
+#sender{
+	width: 250px;
+	border: 1px solid #ADFF2F;
+	background: #ADFF2F;
+	margin-top: 10px;
+	border-radius: 10px 10px 10px 0px;
+	margin-left:3px;
+
+}
+
+#chathead1{
+width: 100%;
+background: blue;
+margin-left:-15px;
+}
+
+#sname{
+margin-left: 7px;
+}
+
+#date{
+	font-size: 10px;
+	float: right;
+	color: gray;
+	margin-right: 10px;
+
+}
+
+#msg{
+
+
+	margin-left: 10px;
+
+
+}
+
+
+
+#footer{
+	height: 20px;
+	float:right;
+	margin-right:5px;
+
+}
+
+#text{
+	margin-left: 160;
+	height: 20px;
+}
+
+
+
+#main{
+	border: 1px solid blue;
+}
+
+#del{
+	position: fixed;
+	top: 38;
+	border-radius: 5px;
+	border-color: blue;
+	left: 174px;
+}
+#goback{
+	position: fixed;
+	top: 13;
+	border: 1px solid blue;
+	border-radius: 5px;
+	background: #f0f0f0;
+}
+
+#checkall{
+		position: fixed;
+	top: 38;
+	border: 1px solid blue;
+	border-radius: 5px;
+	background: #f0f0f0;
+
+}
+
+#uncheckall{
+	position: fixed;
+	top: 38;
+	border: 1px solid blue;
+	border-radius: 5px;
+	background: #f0f0f0;
+		left: 82px;
+
+}
+

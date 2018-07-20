@@ -1,0 +1,27 @@
+a {
+	text-decoration:none; 
+	 }
+
+
+
+table tr{
+	height: 50px; 
+	}
+
+table tr th{
+	border-bottom: 1px solid #326AB7;
+
+}
+
+
+#chatbutton {
+	background:#72a873;
+	border-radius: 5px; 
+	height: 30px; 
+	width: 90px; 
+	border: 1px solid gray; 
+	color: white;
+	font-weight:bold; 
+	font-size: 16px; 
+}
+

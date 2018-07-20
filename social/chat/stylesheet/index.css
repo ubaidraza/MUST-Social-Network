@@ -1,0 +1,88 @@
+body{
+	width: 1350px;
+	padding-top: 0;
+	margin-top: 0; 
+	padding-left: 0; 
+	margin-left: 0;
+	background:
+	}
+
+#head{
+	background: #3a5795;
+	background-size: 1360px 100px;
+	width: 1350px;
+	height: 100px;
+	}
+
+#left{
+	float: left;
+	padding-top: 5px;
+	}
+
+#right{
+	float: right;
+	margin-right: 20px;
+	color: white;
+	background: ;
+	}
+
+#msgnoti{
+	float: left;
+	height: 40px;
+	width: 40px;
+	background: url("img/msg.ico") center no-repeat;
+	background-size: 40px 40px;
+	padding-left: 25px;
+	padding-top: 20px;
+}
+
+#new{
+	float: left;
+	color: red;
+}
+
+#logo{
+	float: left;
+	padding-left: 20px;
+}
+
+#heading{
+	float: left;
+	font-size: 47px;
+	font-family: sans-serif;
+	color: white;
+	margin-top:20px;
+	padding-left: 20px;
+
+}
+
+#lmain{
+	float: left;
+}
+
+#rmain{
+	float: right; 
+	margin-right: 70px;
+	margin-top: 40px;
+}
+
+#loginas{
+	float: right;
+}
+
+#logout{
+	float: right;
+}
+
+#logout a{
+	color: white;
+}
+
+a{text-decoration: none;}
+
+#members{
+	float: right;
+	padding-top: 5px;
+	background:url("img/logo1.png") center no-repeat;
+	background-size: 420px 554px;
+}

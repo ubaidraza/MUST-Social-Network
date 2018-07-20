@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.section{
+	float:left;
+	}
+
+.section a{
+	float:left;
+	width:180px;	
+	margin-left:5px;
+	margin-top:10px;
+	}
+	
+#middleDiv{
+	border-left:1px solid #CCC8C8;
+	border-right:1px solid #CCC8C8;
+	}
+	
+	
+.sidenav .section a{ background:#7058a3; color:white;}
+
+#addMember td{
+	padding:10px;	
+	}
